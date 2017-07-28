@@ -1,0 +1,71 @@
+{
+  "banners": [
+    {
+      "typeTitle": "新碟首发",
+      "pic": "http://p3.music.126.net/s25q2x5QyqsAzilCurD-2w==/7973658325212564.jpg",
+      "titleColor": "red",
+      "monitorClick": null,
+      "monitorImpress": null,
+      "targetType": 10,
+      "url": "",
+      "targetId": 3165446,
+      "exclusive": false
+    },
+    {
+      "typeTitle": "专栏",
+      "pic": "http://p4.music.126.net/V9-MXz6b2MNhEKjutoDWIg==/7937374441542745.jpg",
+      "titleColor": "blue",
+      "monitorClick": null,
+      "monitorImpress": null,
+      "targetType": 1005,
+      "url": "http://music.163.com/m/topic/170001",
+      "targetId": 170001,
+      "exclusive": false
+    },
+    {
+      "typeTitle": "专栏",
+      "pic": "http://p4.music.126.net/CTU5B9R9y3XyYBZXJUXzTg==/2897213141428023.jpg",
+      "titleColor": "blue",
+      "monitorClick": null,
+      "monitorImpress": null,
+      "targetType": 1005,
+      "url": "http://music.163.com/m/topic/169001",
+      "targetId": 169001,
+      "exclusive": false
+    },
+    {
+      "typeTitle": "歌单",
+      "pic": "http://p4.music.126.net/tGPljf-IMOCyPvumoWLOTg==/7987951976374270.jpg",
+      "titleColor": "red",
+      "monitorClick": null,
+      "monitorImpress": null,
+      "targetType": 1000,
+      "url": "",
+      "targetId": 81662699,
+      "exclusive": false
+    },
+    {
+      "typeTitle": "推广",
+      "pic": "http://p4.music.126.net/mp2Y2n4ueZzIj6JSnUOdtw==/7875801790676538.jpg",
+      "titleColor": "blue",
+      "monitorClick": null,
+      "monitorImpress": null,
+      "targetType": 3000,
+      "url": "http://wlj2015.qq.com/",
+      "targetId": 0,
+      "exclusive": false
+    },
+    {
+      "typeTitle": "新碟首发",
+      "pic": "http://p3.music.126.net/e0gGadEhjur2UuUpDF9hPg==/7788940372125389.jpg",
+      "titleColor": "red",
+      "monitorClick": null,
+      "monitorImpress": null,
+      "targetType": 10,
+      "url": "",
+      "targetId": 3165337,
+      "exclusive": false
+    }
+  ],
+  "code": 200
+}

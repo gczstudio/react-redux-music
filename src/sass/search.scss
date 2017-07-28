@@ -1,0 +1,26 @@
+.search_container{
+	.search_header{
+	    height: 40px;
+	    background-color: #CE3D3E;
+	    line-height: 40px;
+	    padding-left: 10px;
+	    text-align: center;
+	    span{
+	    	color: #fff;
+	    	font-size: 14px;
+	    	margin-right: 10px;
+	    	float: left;
+	    	&:nth-of-type(2){
+	    		float: right;
+	    	}
+	    }
+	    input{
+    	    width: 70%;
+    	    border-radius: 10px;
+    	    border: 1px solid #fff;
+    	    height: 20px;
+    	    padding-left: 10px;
+			
+	    }
+	}
+}

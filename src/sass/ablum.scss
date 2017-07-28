@@ -1,0 +1,35 @@
+.introduce{
+	background-color: #eee;
+	padding: 20px 10px;
+	overflow: hidden;
+	img{
+		float:left;
+		width: 150px;
+		height: 150px;
+		margin-right: 10px;
+	}
+
+}
+.ablumList{
+	padding: 10px 10px 60px 40px;
+	height: 500px;
+	overflow:auto;
+	li{
+		height: 40px;
+		line-height: 40px;
+		font-size: 14px;
+		border-bottom: 1px solid #eee;
+		p{
+			text-indent: -30px;
+			span{
+				margin-right: 25px;
+				color: #a0a0a0;
+			}
+			// overflow: hidden;
+			text-overflow: ellipsis;
+			white-space: nowrap;
+		}
+		
+	}
+
+}
